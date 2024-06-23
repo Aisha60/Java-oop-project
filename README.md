@@ -1,4 +1,4 @@
-# Java-oop-project
+# Room Booking Management 
 **Project Description**:
 The current manual process is time-consuming, error-prone, and lacks transparency, resulting in conflicts and suboptimal utilization of rooms. This system aims to streamline the room scheduling process, reduce administrative workloads, and enhance the academic experience for students and faculty.
 
